@@ -73,6 +73,7 @@ instance/
 *.png
 *.jpg
 *.jpeg
+# *.parquet
 # Sphinx documentation
 docs/_build/
 
